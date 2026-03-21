@@ -4,9 +4,9 @@
 ・Email: hamamoto@ai.cs.ehime-u.ac.jp
 
 ## 興味分野
-・自然言語処理（NLP）  
-・マルチモーダル（Vision-Language Models）  
-・機械翻訳（Multimodal Machine Translation）  
+・自然言語処理  
+・マルチモーダル  
+・機械翻訳  
 
 ## 研究業績
 
