@@ -34,7 +34,7 @@
 - 愛媛大学工学部工学科コンピュータ科学コース優秀学生（3 年次）
 
 ## 資格等  
-- 応用情報技術 合格
+- 応用情報技術者試験 合格
 
 ## 活動
 - 技育 CAMP ハッカソン VOL.8 参加 [[URL](https://talent.supporterz.jp/events/cbcbae79-19d7-4ae3-a45c-75b8bb80a562/)]
