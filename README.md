@@ -37,4 +37,4 @@
 - 応用情報技術者試験 合格
 
 ## 活動
-- 技育 CAMP ハッカソン VOL.8 参加 [[URL](https://talent.supporterz.jp/events/cbcbae79-19d7-4ae3-a45c-75b8bb80a562/)]
+- 技育 CAMP ハッカソン VOL.8 参加 [[URL](https://talent.supporterz.jp/events/cbcbae79-19d7-4ae3-a45c-75b8bb80a562/)][[code](https://github.com/BakeryForHackathon/Annotopia)]
