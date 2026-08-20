@@ -25,6 +25,10 @@ MECHA-ja を用いた人間とVLMの常識理解の差の分析に向けて.<br>
 大規模言語モデルが生成した記事の自動検出  
 情報処理学会第87回全国大会, 6R-06, March 2025.[[URL](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/6R-06.html)][[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-nishida.pdf)]
 
+- 清水 信希, 濱本 惇之介, 二宮 崇, 後藤 功雄 .<br>
+発声に基づく動的な音響特徴量融合による音声感情認識.<br>
+第21回言語処理若手シンポジウム, S5-P13, August 2026.[[URL](https://yans.anlp.jp/entry/yans2026program#1705-1805-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-3)]
+
 ## 受賞等
 - 情報処理学会第87回全国大会 学生奨励賞 [[URL](https://www.ipsj.or.jp/award/taikaigakusei.html)]
     > 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.  
