@@ -15,8 +15,8 @@
 視覚言語モデルは漫画のオノマトペを翻訳できるか？  
 言語処理学会第32回年次大会, C9-2, March 2026.[[URL](https://www.anlp.jp/proceedings/annual_meeting/2026/#C9-2)}
 
-- 濱本 惇之介, 中山 功太, 徳久 良子, 二宮 崇, 岡崎 直観. 
-MECHA-ja を用いた人間とVLMの常識理解の差の分析に向けて. 
+- 濱本 惇之介, 中山 功太, 徳久 良子, 二宮 崇, 岡崎 直観.<br>
+MECHA-ja を用いた人間とVLMの常識理解の差の分析に向けて.<br>
 第21回言語処理若手シンポジウム, S3-P16, August 2026.[[URL](https://yans.anlp.jp/entry/yans2026program#1705-1805-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-3)]
 
 
