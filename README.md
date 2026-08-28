@@ -48,3 +48,4 @@ MECHA-ja を用いた人間とVLMの常識理解の差の分析に向けて.<br>
 ## 活動
 - 技育 CAMP ハッカソン VOL.8 参加 [[URL](https://talent.supporterz.jp/events/cbcbae79-19d7-4ae3-a45c-75b8bb80a562/)][[code](https://github.com/BakeryForHackathon/Annotopia)]
 - 国立情報学研究所(NII) マルチモーダルWG RA 2026年5月~
+- 日本経済新聞社 短期インターン2026
