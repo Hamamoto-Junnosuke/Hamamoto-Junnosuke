@@ -21,7 +21,7 @@ MECHA-ja を用いた人間とVLMの常識理解の差の分析に向けて.<br>
 
 - 濱本 惇之介, 中山 功太, 徳久 良子, 二宮 崇, 岡崎 直観.<br>
 日本の文化常識ベンチマークMECHA-Ja の拡充とVLMの誤答要因分析.<br>
-第269回自然言語処理研究発表会, September 2026.[[URL](https://arc.net/l/quote/xcjiiwem)]
+第269回自然言語処理研究発表会, September 2026.[[URL](https://www.ipsj.or.jp/kenkyukai/event/nl269.html#:~:text=%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96%E5%B8%B8%E8%AD%98%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AFMECHA%2DJa%20%E3%81%AE%E6%8B%A1%E5%85%85%E3%81%A8VLM%E3%81%AE%E8%AA%A4%E7%AD%94%E8%A6%81%E5%9B%A0%E5%88%86%E6%9E%90)]
 
 
 ### 共著
