@@ -34,9 +34,10 @@ MECHA-ja を用いた人間とVLMの常識理解の差の分析に向けて.<br>
 情報処理学会第87回全国大会, 6R-06, March 2025.[[URL](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/6R-06.html)][[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-nishida.pdf)]
 
 ## 受賞等
-- 濱本 惇之介, 中山 功太, 徳久 良子, 二宮 崇, 岡崎 直観.<br>
-日本の文化常識ベンチマークMECHA-Ja の拡充とVLMの誤答要因分析.<br>
-第269回自然言語処理研究発表会, September 2026.[[URL](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.5bcw9buh9g1q)]
+-第269回自然言語処理研究発表会　若手奨励賞 [[URL](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.5bcw9buh9g1q)]
+    > 濱本 惇之介, 中山 功太, 徳久 良子, 二宮 崇, 岡崎 直観.<br>
+    > 日本の文化常識ベンチマークMECHA-Ja の拡充とVLMの誤答要因分析.<br>
+    > 第269回自然言語処理研究発表会, September 2026.
 
 - 情報処理学会第87回全国大会 学生奨励賞 [[URL](https://www.ipsj.or.jp/award/taikaigakusei.html)]
     > 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.  
