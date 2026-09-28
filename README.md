@@ -11,29 +11,33 @@
 ## 研究業績
 
 ### 主著
-- 濱本 惇之介, 梶川 怜恩, 二宮 崇, 後藤 功雄, 石渡 祥之佑, 能地 宏  
-視覚言語モデルは漫画のオノマトペを翻訳できるか？  
-言語処理学会第32回年次大会, C9-2, March 2026.[[URL](https://www.anlp.jp/proceedings/annual_meeting/2026/#C9-2)]
+- 濱本 惇之介, 中山 功太, 徳久 良子, 二宮 崇, 岡崎 直観.<br>
+日本の文化常識ベンチマークMECHA-Ja の拡充とVLMの誤答要因分析.<br>
+第269回自然言語処理研究発表会, September 2026.[[URL](https://www.ipsj.or.jp/kenkyukai/event/nl269.html#:~:text=%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96%E5%B8%B8%E8%AD%98%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AFMECHA%2DJa%20%E3%81%AE%E6%8B%A1%E5%85%85%E3%81%A8VLM%E3%81%AE%E8%AA%A4%E7%AD%94%E8%A6%81%E5%9B%A0%E5%88%86%E6%9E%90)]
 
 - 濱本 惇之介, 中山 功太, 徳久 良子, 二宮 崇, 岡崎 直観.<br>
 MECHA-ja を用いた人間とVLMの常識理解の差の分析に向けて.<br>
 第21回言語処理若手シンポジウム, S3-P16, August 2026.[[URL](https://yans.anlp.jp/entry/yans2026program#1705-1805-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-3)]
 
-- 濱本 惇之介, 中山 功太, 徳久 良子, 二宮 崇, 岡崎 直観.<br>
-日本の文化常識ベンチマークMECHA-Ja の拡充とVLMの誤答要因分析.<br>
-第269回自然言語処理研究発表会, September 2026.[[URL](https://www.ipsj.or.jp/kenkyukai/event/nl269.html#:~:text=%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96%E5%B8%B8%E8%AD%98%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AFMECHA%2DJa%20%E3%81%AE%E6%8B%A1%E5%85%85%E3%81%A8VLM%E3%81%AE%E8%AA%A4%E7%AD%94%E8%A6%81%E5%9B%A0%E5%88%86%E6%9E%90)]
+- 濱本 惇之介, 梶川 怜恩, 二宮 崇, 後藤 功雄, 石渡 祥之佑, 能地 宏  
+視覚言語モデルは漫画のオノマトペを翻訳できるか？  
+言語処理学会第32回年次大会, C9-2, March 2026.[[URL](https://www.anlp.jp/proceedings/annual_meeting/2026/#C9-2)]
 
 
 ### 共著
-- 西田 祥人, 濱本 惇之介, 松浦 哉太, 杉原 壮一郎, 梶原 智之, 二宮 崇, 後藤 功雄  
-大規模言語モデルが生成した記事の自動検出  
-情報処理学会第87回全国大会, 6R-06, March 2025.[[URL](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/6R-06.html)][[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-nishida.pdf)]
-
 - 清水 信希, 濱本 惇之介, 二宮 崇, 後藤 功雄 .<br>
 発声に基づく動的な音響特徴量融合による音声感情認識.<br>
 第21回言語処理若手シンポジウム, S5-P13, August 2026.[[URL](https://yans.anlp.jp/entry/yans2026program#1705-1805-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-3)]
 
+- 西田 祥人, 濱本 惇之介, 松浦 哉太, 杉原 壮一郎, 梶原 智之, 二宮 崇, 後藤 功雄  
+大規模言語モデルが生成した記事の自動検出  
+情報処理学会第87回全国大会, 6R-06, March 2025.[[URL](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/6R-06.html)][[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-nishida.pdf)]
+
 ## 受賞等
+- 濱本 惇之介, 中山 功太, 徳久 良子, 二宮 崇, 岡崎 直観.<br>
+日本の文化常識ベンチマークMECHA-Ja の拡充とVLMの誤答要因分析.<br>
+第269回自然言語処理研究発表会, September 2026.[[URL](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.5bcw9buh9g1q)]
+
 - 情報処理学会第87回全国大会 学生奨励賞 [[URL](https://www.ipsj.or.jp/award/taikaigakusei.html)]
     > 西田祥人, 濱本惇之介, 松浦哉太, 杉原壮一郎, 梶原智之, 二宮　崇, 後藤功雄.  
     > 大規模言語モデルが生成した記事の自動検出.  
